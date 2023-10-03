@@ -27,4 +27,7 @@ Python code from usage analysis of Austin MetroBikes. Code includes exploratory 
 #### 01. Project Management - contains project document which includes data overview, objectives, and key questions as well as documentation of data cleaning
 #### 02. Data - contains both original and prepared data
 #### 03. Scripts - contains Jupyter notebooks for each step of analysis
-    
+
+## Analysis:
+#### Visualizations can be found in Tableau 
+##### https://public.tableau.com/views/Trial6_7/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
