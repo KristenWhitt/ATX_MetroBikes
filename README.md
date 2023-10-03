@@ -7,7 +7,7 @@ Python code from usage analysis of Austin MetroBikes. Code includes exploratory 
 
 ## Data:
 ### MetroBikes data from 2013-2023 accessed via City of Austin Open Data
-  ### Contains infromation on trip duration, membership type, kiosk location, checkout date and time
+  ### Contains infromation on trip duration, membership type, kiosk location, checkout date and time. Further documentation can be found in 01.Project Management
 
 
 ## Tools:
@@ -27,5 +27,4 @@ Python code from usage analysis of Austin MetroBikes. Code includes exploratory 
 #### 01. Project Management - contains project document which includes data overview, objectives, and key questions as well as documentation of data cleaning
 #### 02. Data - contains both original and prepared data
 #### 03. Scripts - contains Jupyter notebooks for each step of analysis
-#### 04. Analysis - contains maps from geospatial analysis 
     
