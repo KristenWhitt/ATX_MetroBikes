@@ -25,8 +25,8 @@ Python code from usage analysis of Austin MetroBikes. Code includes exploratory 
 
 ## Folder Structure:
 #### 01. Project Management - contains project document which includes data overview, objectives, and key questions as well as documentation of data cleaning
-#### 02. Data - contains both original and prepared data
-#### 03. Scripts - contains Jupyter notebooks for each step of analysis
+#### 02. Data - contains random sample datasets used for analysis in Tableau
+#### 03. Scripts - contains zipped file of Jupyter notebooks for each step of analysis
 
 ## Analysis:
 #### Visualizations can be found in Tableau 
