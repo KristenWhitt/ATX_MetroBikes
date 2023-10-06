@@ -20,13 +20,14 @@ Python code from usage analysis of Austin MetroBikes. Code includes exploratory 
   ### - Matplotlib
 
 ## Executing Code:
-### All code is available via Jupyter notebooks and can be found in /03.Python_Scripts/.
-### To lauch the notebook, open the terminal and run the command.
+### All code is available via Jupyter notebooks and can be accessed from the compressed file JupyterNotebooks.
+### Notebooks are numbered in the order analysis was completed.
+### To lauch any notebook, download the zipped file, choose a notbook to view, open the Jupyter terminal, and run the command.
 
 ## Folder Structure:
 #### 01. Project Management - contains project document which includes data overview, objectives, and key questions as well as documentation of data cleaning
-#### 02. Data - contains random sample datasets used for analysis in Tableau
-#### 03. Scripts - contains zipped file of Jupyter notebooks for each step of analysis
+#### 02. Data/Prepared Data - contains random sample datasets used for analysis in Tableau
+#### JupyterNotebooks - contains zipped file of Jupyter notebooks for each step of analysis
 
 ## Analysis:
 #### Visualizations can be found in Tableau 
