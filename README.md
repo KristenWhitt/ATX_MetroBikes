@@ -1,5 +1,5 @@
 # ATX_MetroBikes
-Python code from usage analysis of Austin MetroBikes. Code includes exploratory data analysis, quality and consistency checks, data wrangling, column derivations, and geospatial analysis, time series analysis, linear regression modeling, and cluster analysis. 
+Python code from usage analysis of Austin MetroBikes. Code includes exploratory data analysis, quality and consistency checks, data wrangling, column derivations, and geospatial analysis, time series analysis, linear regression modeling, and cluster analysis. To view a brief summary of the project including tools and skills demonstrated select Austin_MetroBikes_Summary.
 
 ## Objectives:
 ### Perform exploratory data analysis on Metrobikes data to discover usage around the city. 
